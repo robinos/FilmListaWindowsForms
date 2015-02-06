@@ -6,3 +6,5 @@ Film - en klass för filminformation
 
 FilmListaForm - fyller en Dictionary<string,Film> med tre filmer och sedan sätter alla namn i comboxen.
 Annat information visas upp för filmen som har samma namn som den valda.
+
+**Versionen på GitHub innehåller inte bilder, bara koden**
