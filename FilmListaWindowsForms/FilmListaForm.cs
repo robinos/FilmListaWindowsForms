@@ -67,7 +67,7 @@ namespace FilmListaWindowsForms
 
 			Årtal.Text = valdFilm.UtgivningsÅr.ToString();
 			Längd.Text = valdFilm.Längd.ToString();
-			FilmBild.Image = Image.FromFile(valdFilm.Bild);  //FilmBild har SizeMode: Autosize
+			//FilmBild.Image = Image.FromFile(valdFilm.Bild);  //FilmBild har SizeMode: Autosize
 			//FilmBild.ImageLocation = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location)+@"\"+valdFilm.Bild;
 		}
 	}

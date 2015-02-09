@@ -36,6 +36,7 @@ namespace FilmListaWindowsForms
 			filmID = id;
 			filmNamn = namn;
 			utgivningsÅr = year;
+			this.längd = längd;
 			this.bild = bild;
 		}
 	}
